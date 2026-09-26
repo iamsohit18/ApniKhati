@@ -1,0 +1,6 @@
+{
+  "name": "ApniKheti - AI Agriculture Operating System",
+  "description": "Global AgriTech Operating System connecting farmers with AI, markets, equipment, cold storage, testing labs, buyers, transport, and government policy intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
